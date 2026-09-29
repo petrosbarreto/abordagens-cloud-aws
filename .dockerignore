@@ -1,0 +1,7 @@
+.git
+README.md
+lambda_function.py
+scripts/
+*.zip
+__pycache__/
+dist/
